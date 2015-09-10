@@ -15,7 +15,9 @@ namespace Hello
         }
         //major change
 
-        static void DoNothing() { }
+        static void DoNothing() { 
+            this code won't compile
+        }
 
         static void DoNothing2() { }
 
