@@ -9,12 +9,14 @@ namespace Hello
     {
         static void Main(string[] args)
         {
+            //minor change
             Console.WriteLine("Test");
             Console.ReadKey();
         }
-		//major change
 
         static void DoNothing() { }
+
+        static void DoNothing2() {}
 
     }
 }
