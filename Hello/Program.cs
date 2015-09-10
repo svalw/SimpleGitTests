@@ -13,10 +13,11 @@ namespace Hello
             Console.WriteLine("Test");
             Console.ReadKey();
         }
+        //major change
 
         static void DoNothing() { }
 
-        static void DoNothing2() {}
+        static void DoNothing2() { }
 
     }
 }
