@@ -15,9 +15,11 @@ namespace Hello
         }
         //major change
 
-        static void DoNothing() { }
+        static void DoNothing() { 
+		// cvhange1
+		}
 
         static void DoNothing2() { }
-
+		blah();
     }
 }
